@@ -61,7 +61,7 @@ This policy will be reviewed periodically to ensure its effectiveness and compli
 
 ## License and attribution
 
-This Code of Conduct is distributed under a [Creative Commons Attribution-ShareAlike license](http://creativecommons.org/licenses/by-sa/3.0/).
+This Email policy is distributed under https://github.com/gnoppix/copyrights/blob/main/BC-NC-SA-4.0 
 
 - Andreas Mueller 17.Jan. 2024
 
